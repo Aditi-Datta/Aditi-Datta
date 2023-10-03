@@ -2,7 +2,13 @@
 <h3 align="left">I'm a passionate and exhilarated full-stack web developer</h3>
 <h4>As a full-stack web developer, I'm very enthusiastic about exploring new technology along with being a quick learner. I have extensive experience developing web applications from concept to deployment. I always focus on creating user friendly applications. Creating amazing websites and web apps is my passion.</h4>
 
-<p>Skills: JS || HTML || CSS || Bootstrap || ES6 || React || Next || Node || Express || Firebase || Mongodb || TailwindCSS || Matarial UI </p>
+<p>Skills:  JS/HTML/CSS/Bootstrap/ES6/React/Next/Node/Express/TailwindCSS/Matarial UI </p>
+
+- 🌱 I’m currently learning **Redux, Typescript**
+- 🔭 At present I'm working on **React, Next, Node, Express**
+- 💬 Ask me about **React, Next**
+- 📫 Reach me through my mail **aditidatta373@gmail.com**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-datta&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-datta" /> </p>
 
@@ -10,11 +16,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, Redux, NodeJS**
-
-- 💬 Ask me about **Javascript, React**
-
-- 📫 How to reach me **aditidatta373@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

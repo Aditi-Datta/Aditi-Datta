@@ -1,4 +1,7 @@
 <h1 align="center">Welcome, This is Aditi Datta</h1>
+
+
+
 <!-- <h3 align="center" style='color:red'>I'm a passionate and exhilarated full-stack web developer</h3> -->
 
  $\textcolor{green}{I'm\ a\ passionate\ and\ exhilarated\ full-stack\ web\ developer}$ 

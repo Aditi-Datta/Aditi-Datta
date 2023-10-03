@@ -2,6 +2,8 @@
 <h3 align="left">I'm a passionate and exhilarated full-stack web developer</h3>
 <h4>As a full-stack web developer, I'm very enthusiastic about exploring new technology along with being a quick learner. I have extensive experience developing web applications from concept to deployment. I always focus on creating user friendly applications. Creating amazing websites and web apps is my passion.</h4>
 
+<h1>Skills: JS || HTML || CSS || Bootstrap || ES6 || React || Next || Node || Express || Firebase || Mongodb || TailwindCSS || Matarial UI </h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-datta&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-datta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi-datta" alt="aditi-datta" /></a> </p>

@@ -1,6 +1,6 @@
-<h1 align="left">Welcome, This is Aditi Datta</h1>
+<!--  <h1 align="left">Welcome, This is Aditi Datta</h1>  -->
 
-
+**Welcome, This is Aditi Datta**
 
 <!-- <h3 align="center" style='color:red'>I'm a passionate and exhilarated full-stack web developer</h3> -->
 

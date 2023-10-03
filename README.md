@@ -1,5 +1,6 @@
 <h1 align="left">Welcome, This is Aditi Datta</h1>
 <h3 align="left">I'm a passionate and exhilarated full-stack web developer</h3>
+<h4>As a full-stack web developer, I'm very enthusiastic about exploring new technology along with being a quick learner. I have extensive experience developing web applications from concept to deployment. I always focus on creating user friendly applications. Creating amazing websites and web apps is my passion.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-datta&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-datta" /> </p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, This is Aditi Datta</h1>
 <h3 align="center" style='color:red'>I'm a passionate and exhilarated full-stack web developer</h3>
 
-** $\textcolor{green}{I'm \a \passionate \and\ exhilarated\ full-stack \web \developer}$ **
+ $\textcolor{green}{I'm\ a\ passionate\ and\ exhilarated\ full-stack\ web\ developer}$ 
 
 <p>As a full-stack web developer, I'm very enthusiastic about exploring new technology along with being a quick learner. I have extensive experience developing web applications from concept to deployment. I always focus on creating user friendly applications. Creating amazing websites and web apps is my passion.</p>
 

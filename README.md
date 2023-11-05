@@ -4,7 +4,7 @@
 
 <!-- <h3 align="center" style='color:red'>I'm a passionate and exhilarated full-stack web developer</h3> -->
 
- $\textcolor{green} \align{center} {I'm\ a\ passionate\ and\ exhilarated\ full-stack\ web\ developer}$ 
+ $\textcolor{green} \align{center}\ {I'm\ a\ passionate\ and\ exhilarated\ full-stack\ web\ developer}$ 
 
  
 

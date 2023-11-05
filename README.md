@@ -18,11 +18,8 @@
 <p>Skills:  JS/HTML/CSS/Bootstrap/ES6/React/Next/Node/Express/TailwindCSS/MatarialUI </p>
 
 - 🌱 I’m currently learning **Redux, Typescript**
-  
 - 🔭 At present I'm working on **React, Next, Node, Express**
-  
 - 💬 Ask me about **React, Next**
-  
 - 📫 Reach me through my mail **aditidatta373@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-datta&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-datta" /> </p> 

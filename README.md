@@ -4,17 +4,25 @@
 
  <h3 align="center" style='color:red'>I'm a passionate and exhilarated full-stack web developer</h3>
 
+
+
+
  <!-- $\textcolor{green} {I'm\ a\ passionate\ and\ exhilarated\ full-stack\ web\ developer}$   -->
 
  
+
+
 
 <p>As a full-stack web developer, I'm very enthusiastic about exploring new technology along with being a quick learner. I have extensive experience developing web applications from concept to deployment. I always focus on creating user friendly applications. Creating amazing websites and web apps is my passion.</p>
 
 <p>Skills:  JS/HTML/CSS/Bootstrap/ES6/React/Next/Node/Express/TailwindCSS/MatarialUI </p>
 
 - 🌱 I’m currently learning **Redux, Typescript**
+  
 - 🔭 At present I'm working on **React, Next, Node, Express**
+  
 - 💬 Ask me about **React, Next**
+  
 - 📫 Reach me through my mail **aditidatta373@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-datta&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-datta" /> </p> 

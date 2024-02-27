@@ -17,8 +17,8 @@
 
 <p>Skills:  JS/HTML/CSS/Bootstrap/ES6/React/Next/Node/Express/TailwindCSS/MatarialUI </p>
 
-- 🌱 I’m currently learning **Redux, Typescript**
-- 🔭 At present I'm working on **React, Next, Node, Express**
+- 🌱 I’m currently learning **.Net**
+- 🔭 At present I'm working on **React,redux, Next, Node, Express**
 - 💬 Ask me about **React, Next**
 - 📫 Reach me through my mail **aditidatta373@gmail.com**
 

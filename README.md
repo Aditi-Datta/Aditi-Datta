@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-datta&show_icons=true&locale=en" alt="aditi-datta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-datta&" alt="aditi-datta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-datta&" alt="aditi-datta" alt="aditi-datta" /></p>
